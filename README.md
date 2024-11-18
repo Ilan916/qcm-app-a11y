@@ -251,9 +251,9 @@ Skip to content
 
 - [ ] a) `<a href="url" target="_blank">`
 
-- [x] b) `<a href="url" target="_blank" rel="noopener noreferrer">`
+- [ ] b) `<a href="url" target="_blank" rel="noopener noreferrer">`
 
-- [ ] c) `<a href="url" target="_blank" aria-label="opens in new tab">`
+- [x] c) `<a href="url" target="_blank" aria-label="opens in new tab">`
 
 - [x] d) `<a href="url" target="_blank" rel="noopener noreferrer" aria-label="opens in new tab">`
 
