@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.accordion-item {
+  margin-bottom: 1rem;
+}
+
+.accordion-header {
+  background-color: #f1f1f1;
+  border: none;
+  padding: 1rem;
+  text-align: left;
+  width: 100%;
+  cursor: pointer;
+}
+
+.accordion-header.open {
+  background-color: #ddd;
+}
+
+.accordion-panel {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-top: none;
+}
+
